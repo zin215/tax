@@ -2,7 +2,7 @@
   "name": "tax",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/zin215/tax",
+  "homepage": "https://zin215.github.io/tax",
   "dependencies": {
     "@testing-library/jest-dom": "^6.8.0",
     "@testing-library/react": "^16.3.0",
